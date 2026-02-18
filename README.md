@@ -1,52 +1,95 @@
-# 👋 ¡Hola! Soy Osvaldo Abraham de la Torre Ortiz
+<h1 align="center">👋 ¡Hola! Soy Osvaldo Abraham de la Torre Ortiz</h1>
 
-## 🚀 Sobre mí
-Soy desarrollador apasionado por la tecnología y el aprendizaje continuo.  
-Me interesa crear soluciones eficientes y compartir conocimiento con la comunidad.
+###
 
-- 🔭 Actualmente trabajando en proyectos de **backend y APIs REST**  
-- 🌱 Aprendiendo más sobre **DevOps y Cloud Computing**  
-- 👯 Buscando colaborar en proyectos **open source**  
-- 💬 Pregúntame sobre **JavaScript, Python y Node.js**  
-- 📫 Cómo contactarme: [LinkedIn](https://www.linkedin.com/in/tuusuario) | [Email](mailto:tuemail@example.com)  
-- ⚡ Fun fact: ¡Me encanta automatizar tareas y optimizar procesos!
+<h2 align="left">🚀 Sobre mí</h2>
 
----
+###
 
-## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** JavaScript, Python, Java  
-- **Frameworks:** Node.js, React, Express  
-- **Bases de datos:** MySQL, MongoDB, PostgreSQL  
-- **DevOps:** Docker, GitHub Actions, CI/CD  
-- **Otros:** Git, Linux, VS Code  
+<p align="left">Soy desarrollador apasionado por la tecnología y el aprendizaje continuo. Me interesa crear soluciones eficientes y compartir conocimiento con la comunidad.</p>
 
----
+###
 
-## 📌 Proyectos destacados
-Aquí algunos repositorios fijados que muestran mi trabajo:
+<p align="left">- 🔭 Actualmente trabajando en proyectos de **backend y APIs REST** <br>- 🌱 Aprendiendo más sobre **DevOps y Cloud Computing** <br>- 👯 Buscando colaborar en proyectos **open source** <br>- 💬 Pregúntame sobre **Dart, Python y Java**<br>- ⚡ Fun fact: ¡Me encanta automatizar tareas y optimizar procesos!</p>
 
-- [Proyecto 1](https://github.com/OsvaldoTorre/proyecto1) – API REST para gestión de usuarios  
-- [Proyecto 2](https://github.com/OsvaldoTorre/proyecto2) – Aplicación web con React y MongoDB  
-- [Proyecto 3](https://github.com/OsvaldoTorre/proyecto3) – Scripts de automatización en Python  
+###
 
-*(Puedes reemplazar los nombres y enlaces con tus repositorios reales, ya que tienes 23 en total.)*
+<h2 align="left">🛠️ Tecnologías y herramientas</h2>
 
----
+###
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OsvaldoTorre&show_icons=true&theme=radical)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OsvaldoTorre&layout=compact&theme=radical)
+###
 
----
+<h2 align="left">📌 Proyectos destacados</h2>
 
-## 🌟 Lo que estoy aprendiendo
-- Kubernetes y orquestación de contenedores  
-- Arquitectura de microservicios  
-- Buenas prácticas de seguridad en aplicaciones web  
+###
 
----
+<p align="left">Aquí algunos repositorios fijados que muestran mi trabajo:<br><br>- [Backend express](https://github.com/OsvaldoTorre/backend_Express) – CRUD, Express JS, Node JS, JavaScript, Mysql.<br>- [Bot](https://github.com/OsvaldoTorre/Bot-McDVoice) – Scripts de automatización en Python</p>
 
-## 🤝 Contribuciones
-Me gusta participar en proyectos colaborativos y aportar soluciones creativas.  
-Si tienes una idea interesante, ¡no dudes en contactarme!
+###
+
+<h2 align="left">📊 Estadísticas de GitHub</h2>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=OsvaldoTorre&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h2 align="left">Cómo contactarme</h2>
+
+###
+
+<div align="left">
+  <a href="www.linkedin.com/in/osvaldodelatorre" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@EkoBozz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="osvaldoabrahamdelatorre@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<h2 align="left">🌟 Lo que estoy aprendiendo</h2>
+
+###
+
+<p align="left">- Desarrollo mobile con flutter <br>- API REST plataforma .NET</p>
+
+###
+
+<h2 align="left">🤝 Contribuciones</h2>
+
+###
+
+<p align="left">Me gusta participar en proyectos colaborativos y aportar soluciones creativas. Si tienes una idea interesante, ¡no dudes en contactarme!</p>
+
+###
+
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=OsvaldoTorre.OsvaldoTorre&"  />
+</div>
+
+###
